@@ -157,6 +157,7 @@ pip install -r requirements.txt
 Run the application:
 streamlit run app.py
 Upload both reports and click "Generate Report"
+
 📊 Output
 
 The system provides:
@@ -169,21 +170,24 @@ The output includes:
 Area
 Issue
 Severity
+
 ⚠️ Limitations
 Works best with structured or semi-structured PDFs
 Extraction accuracy depends on report format
 Severity logic is rule-based and can be improved
+
 🚀 Future Improvements
 Add OCR support for scanned PDFs
 Use NLP models for better extraction
 Improve severity prediction using ML
 Enhance UI for better user experience
+
 💡 Key Strengths of the Project
 Complete end-to-end pipeline
 Modular and scalable design
 Converts raw data into actionable insights
 Real-world use case implementation
 Clean and user-friendly output
-📌 Conclusion
 
+📌 Conclusion
 This project demonstrates how AI and data processing techniques can be used to automate real-world workflows. It focuses not just on extracting data, but on transforming it into meaningful and usable information.
